@@ -1,0 +1,22 @@
+{
+  "name": "jq-like",
+  "version": "0.0.1",
+  "description": "jQuery like mini library",
+  "main": "jquery-clone.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreicucea/jq-like.git"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Andrei Cucea <cucea.mania@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreicucea/jq-like/issues"
+  },
+  "homepage": "https://github.com/andreicucea/jq-like#readme"
+}

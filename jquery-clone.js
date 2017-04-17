@@ -1,5 +1,4 @@
 
-
 var $ = (function () {
 
   function sarmale(e) {
@@ -10,3 +9,5 @@ var $ = (function () {
     sarmale: sarmale
   };
 })();
+
+exports.$ = $;
